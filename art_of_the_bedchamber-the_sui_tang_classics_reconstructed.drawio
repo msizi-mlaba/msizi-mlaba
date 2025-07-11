@@ -1,11 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="fvpZZC-cpQuBX7O5LubO">
-    <mxGraphModel dx="1635" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FkRv66gEJIC9O2Pi3XSl-1" value="Tao of Intercourse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-1" target="FkRv66gEJIC9O2Pi3XSl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-1" target="FkRv66gEJIC9O2Pi3XSl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-1" target="FkRv66gEJIC9O2Pi3XSl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-1" value="Tao of Intercourse" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="360" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-2" target="FkRv66gEJIC9O2Pi3XSl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-2" value="easily understood" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-4" value="practice faithfully" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-6" target="FkRv66gEJIC9O2Pi3XSl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-6" value="when Ching" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="FkRv66gEJIC9O2Pi3XSl-8" target="FkRv66gEJIC9O2Pi3XSl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-8" value="withdraw" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-10" value="her territory" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FkRv66gEJIC9O2Pi3XSl-12" value="Tao of Intercourse" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFD866;strokeColor=light-dark(#000000, #6d5100);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="480" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
